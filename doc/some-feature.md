@@ -1,6 +1,10 @@
 # Some feature 1
 
-## Subsection
+## Subsection 1
+
+This ios subsection 1
+
+## Subsection 2
 
 Exciting documentation in here.
 Let's make a list (empty surrounding lines required):
